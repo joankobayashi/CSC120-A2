@@ -2,10 +2,8 @@ from computer import *
 from typing import Dict, Union
 
 
-inventory : Dict[int, Dict[str, Union[str, int, bool]]] = {}
-
 """
-Class of ResaleShop, the category of things classified on the resale shop side
+Class of ResaleShop, the category of things classified on the resale shop side.
 """
 
 class ResaleShop:
